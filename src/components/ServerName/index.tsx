@@ -8,6 +8,7 @@ const ServerName: React.FC = () => {
       <Title>
         Servidor do Marcoozvn
       </Title>
+      <ExpandIcon />
     </Container>
   )
 }
