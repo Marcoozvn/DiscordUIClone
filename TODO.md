@@ -1,0 +1,1 @@
+- Mostrar ícones de invite e settings apenas no hover
